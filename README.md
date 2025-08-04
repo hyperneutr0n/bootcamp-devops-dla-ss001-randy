@@ -5,3 +5,5 @@ Initial commit
 New feature added
 
 Another feature added
+
+Line added in development
