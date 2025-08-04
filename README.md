@@ -3,3 +3,5 @@
 Initial commit
 
 New feature added
+
+Another feature added
